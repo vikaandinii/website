@@ -1,0 +1,10 @@
+/*ini adalah style img*/
+
+.carousel-item {
+height: 670px;
+}
+
+.carousel-item img {
+    margin-top: -120px
+}
+
